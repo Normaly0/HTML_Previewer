@@ -1,0 +1,31 @@
+textarea {
+    padding: 10px;
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box;
+    border-top: 1px solid black;
+    resize: vertical;
+
+    background-color: rgb(189, 189, 189);
+
+    &:focus {
+        outline: none;
+    }
+
+}
+
+.sub-title {
+    padding: 15px 0;
+    margin-bottom: 0;
+
+    font-size: 2em;
+    text-align: center;
+
+    background: rgb(189, 189, 189);
+}
+
+@media (max-width: 576px) {
+    .sub-title {
+        font-size: 9vw;
+    }
+}
