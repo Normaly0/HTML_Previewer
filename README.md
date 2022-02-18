@@ -2,15 +2,15 @@
 
 # HTML Previewer
 
-A SPA that allows you to preview your markup in realtime.
+A SPA that allows you to preview your markup in real time.
 
 ## About
 
-This applicaton was build as part of the [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/normaly/front-end-development-libraries).
+This application was built as part of the [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/normaly/front-end-development-libraries).
 
 It uses the react framework in combination with the redux library.
 
-I feel like this would be useful when it comes to teaching someone the fundamentals of HTML structures, as it allows for realtime updates of your work while stripping away everything that could be distracting or overwhelming when starting out with web development (CSS, JS etc.).
+I feel like this would be useful when it comes to teaching someone the fundamentals of HTML structures, as it allows for real time updates of your work while stripping away everything that could be distracting or overwhelming when starting out with web development (CSS, JS etc.).
 
 Future ideas:
 - add the ability to copy your code via a button click
